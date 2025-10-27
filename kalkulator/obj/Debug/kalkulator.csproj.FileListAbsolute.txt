@@ -1,0 +1,11 @@
+D:\game\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+D:\game\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+D:\game\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+D:\game\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.AssemblyReference.cache
+D:\game\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.SuggestedBindingRedirects.cache
+D:\game\kalkulator\kalkulator\obj\Debug\kalkulator.Form1.resources
+D:\game\kalkulator\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+D:\game\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.cache
+D:\game\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
+D:\game\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+D:\game\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
